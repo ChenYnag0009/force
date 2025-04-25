@@ -1,13 +1,11 @@
 
 ### BEFORE INSTALL
-
-```
 1.
+```
 apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub 
 ```
-
-```
 2.
+```
  apt install curl jq wget screen build-essential -y && reboot
 ```
 
@@ -59,3 +57,9 @@ apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub
 - WEBSOCKET : ON
 - Always Use HTTPS : OFF
 - UNDER ATTACK MODE : OFF
+
+
+
+<p align="center">
+  <img src="https://github.com/hokagelegend9999/force/blob/main/limit/Screenshot%202025-04-25%20134743.png?raw=true" alt="Tampilan Menu" width="600"/>
+</p>
