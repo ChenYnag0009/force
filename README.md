@@ -1,6 +1,11 @@
 
 
 ### INSTALL SCRIPT 
+<pre><code>apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub <pre><code>
+
+  
+<pre><code> apt install curl jq wget screen build-essential -y && reboot<pre><code>
+
 <pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/hokagelegend9999/force/refs/heads/main/premi.sh && chmod +x premi.sh && ./premi.sh
 </code></pre>
 
