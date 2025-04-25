@@ -37,6 +37,9 @@ res1() {
     rm -rf menu
     rm -rf menu.zip
     rm -rf update.sh
+    wget https://github.com/hokagelegend9999/force/raw/refs/heads/main/limit/menu
+    chmod +x menu
+    mv menu/* /usr/local/sbin
 }
 netfilter-persistent
 clear
