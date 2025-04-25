@@ -1,10 +1,15 @@
 
 ### BEFORE INSTALL
-1.
-<pre><code>apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub <pre><code>
 
+```
+1.
+apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub 
+```
+
+```
 2.
-<pre><code> apt install curl jq wget screen build-essential -y && reboot<pre><code>
+ apt install curl jq wget screen build-essential -y && reboot
+```
 
 ### INSTALL SCRIPT 
 
