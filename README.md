@@ -12,7 +12,13 @@ apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub
 ### INSTALL SCRIPT 
 
 
-<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/ChenYnag0009/force/refs/heads/main/premi.sh && chmod +x premi.sh && ./premi.sh
+<pre><code>sudo apt update -y && \
+sudo apt upgrade -y && \
+sudo apt install -y lolcat && \
+sudo gem install lolcat && \
+wget -q https://raw.githubusercontent.com/ChenYnag0009/force/main/premi.sh && \
+chmod +x premi.sh && \
+./premi.sh
 </code></pre>
 
 
